@@ -1,1 +1,1 @@
-# Stock-rpedict-usin-sklearn
+# Stock-predict-using-sklearn
